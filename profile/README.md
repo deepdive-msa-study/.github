@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=abd4f8&text=Welcome&fontColor=ffffff&alignment-baseline="middle"&fontAlign=50&fontAlignY=50&height=130&desc=DeepDive%20Backend-1st%20MSA%20Study&descAlign=50&descAlignY=80&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=abd4f8&text=MSA%20Study&fontColor=ffffff&alignment-baseline="middle"&fontAlign=50&fontAlignY=50&height=150&desc=딥다이브%20백엔드%20MSA%20스터디&descAlign=50&descAlignY=80&)
 
 
 <div align="center">
